@@ -1,6 +1,13 @@
+h2 {
+    background-color: #426493;
+    color: #42f498;
+}
 h1 {
-    color: #426493;
-}
+    background-color: #42f498;
+    color: #000000;
+}    
 body {
-  color: #42f498;
+  color: #000000;
+  font-family: "Trebuchet MS", Helvetica, sans-serif
 }
+.blue { color: #0000ff;}
